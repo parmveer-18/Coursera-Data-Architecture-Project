@@ -1,4 +1,4 @@
-# Coursera-Data-Architecture-Project
+# Coursera Data Architecture Project
 
 ## Project Description 
 The objective of this project is to reconfigure Coursera’s current database to support new artificial intelligence (AI) features. The two main AI features identified are an autonomous chatbot and automatically generated practice quizzes.
