@@ -5,6 +5,8 @@ The objective of this project is to reconfigure Coursera’s current database to
 
 The first step of the project involved analyzing Coursera’s website to understand the data requirements for their services. After a thorough review, an entity-relationship diagram (ERD) was created to represent all necessary tables for Coursera's functionality. This ERD is available in the provided PDF and JPEG files titled [ERD (Database Model)](ERD_database_model.pdf).
 
+![ERD Database Model](ERD_database_model.jpeg)
+
 In the ERD:
 * Data required to train the chatbot is highlighted in light blue, while dark blue indicates tables for collecting data from each chatbot interaction once it is operational.
 *	Data required for automatically generated practice quizzes is highlighted in light yellow, while dark yellow indicates tables for collecting data from each quiz once this feature is implemented.
